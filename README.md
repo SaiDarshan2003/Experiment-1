@@ -44,8 +44,7 @@ public class Arithmetic
 
 
 ## Output
-![OP](https://github.com/SaiDarshan2003/Experiment-1/assets/94692595/3578e0b8-642b-490d-a7a1-00dc22e7ec89)
-
+![1](https://github.com/SaiDarshan2003/Experiment-1/assets/94692595/3dc66244-a8d4-4516-a4e1-942516b7b8ca)
 
 ## Result 
   We have successfully created a Java program to display the arithmetic operations on numbers.
