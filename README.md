@@ -21,7 +21,7 @@ Step 5 : Display the operations done the input numbers in the terminal.
 
 ```
 import java.util.Scanner;
-public class Arithmetic
+public class ArithmeticOperations
 {
     public static void main(String[] args)
     {
